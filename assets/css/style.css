@@ -781,6 +781,7 @@ section {
 
 .services .title a {
   color: #111;
+  margin-left: 30px;
 }
 
 .services .icon-box:hover .title a {
